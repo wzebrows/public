@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>The Impact of Discretionary Rental Rate Adjustments in the Conservation Reserve Program</title>
-      <link>/publication/job-market_paper/</link>
-      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/job-market_paper/</guid>
+      <title>Consumed from within? social and ecological drivers of internal clearings in Ethiopian Orthodox church forests</title>
+      <link>/publication/published-paper-5/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of Narratives to Communicate Organics with Commodity Grain Farmers</title>
       <link>/publication/published-paper-1/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       <guid>/publication/published-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Discretionary Rental Rate Adjustments in the Conservation Reserve Program</title>
+      <link>/publication/job-market_paper/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/job-market_paper/</guid>
       <description></description>
     </item>
     
